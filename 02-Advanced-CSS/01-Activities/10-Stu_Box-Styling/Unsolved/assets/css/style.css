@@ -67,12 +67,9 @@ footer {
 .card {
   border-style: solid;
   border-width: 1px;
-  border-radius: 10px;
-  box-shadow: -10px 5px black;
   padding: 10px;
   margin: 20px;
   flex: 0 0 300px;
-  transform: rotate(10deg);
 }
 
 .card header {
