@@ -70,7 +70,7 @@ footer {
 
 /* Use an attribute selector to select all <a> elements that have an href value that ends with '.css' */
 a[href$='.css']::after {
-  content: '📝';
+  content: '📝' ; /* or content: '01f4dd'; */
   display: inline-block;
   margin-left: 3px;
 }
